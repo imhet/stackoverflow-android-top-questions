@@ -1,9 +1,7 @@
 # stackoverflow 上 Android 开发 500 问
 
 
-- 翻译的初衷，想加入翻译等说明猛戳[这里](faq.md)。
-- 下面中文标题的问题意味着`翻译完`或`翻译中`，请选择其它英文标题的问题进行翻译
-
+stackoverflow 上 Android 高票问题翻译整理，下面中文标题的问题意味着`翻译完`或`翻译中`，如果你有意翻译可选择其它英文标题的问题进行翻译，其它问题猛戳[FAQ](faq.md)。
 
 
 1. [What is the difference between “px”, “dp”, “dip” and “sp” on Android?](doc/what-is-the-difference-between-px-dp-dip-and-sp-on-android.md)
