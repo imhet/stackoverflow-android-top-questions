@@ -4,8 +4,8 @@
 stackoverflow 上 Android 高票问题翻译整理，下面中文标题的问题意味着`翻译完`或`翻译中`，如果你有意翻译可选择其它英文标题的问题进行翻译，其它问题猛戳[FAQ](faq.md)。
 
 
-1. [ Android 中 px 、dp、dip 和 sp 有什么去呗？](doc/what-is-the-difference-between-px-dp-dip-and-sp-on-android.md)
-2. [Why is the Android emulator so slow? How can we speed up the Android emulator?](doc/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator.md)
+1. [Android 中 px 、dp、dip 和 sp 有什么 区别？](doc/what-is-the-difference-between-px-dp-dip-and-sp-on-android.md)
+2. [Android 模拟器为什么那么慢，应如何加速？](doc/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator.md)
 3. [Proper use cases for Android UserManager.isUserAGoat()?](doc/proper-use-cases-for-android-usermanager-isuseragoat.md)
 4. [Close/hide the Android Soft Keyboard](doc/close-hide-the-android-soft-keyboard.md)
 5. [Stop EditText from gaining focus at Activity startup](doc/stop-edittext-from-gaining-focus-at-activity-startup.md)
