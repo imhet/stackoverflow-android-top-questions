@@ -22,7 +22,7 @@ Android 中px、dp、dip 和 sp 有什么区别?
 在[理解 Android 密度独立性](https://www.captechconsulting.com/blogs/understanding-density-independence-in-android)这篇文章中有两个比较有用的表可以回答你的问题：
 
 | 屏幕密度级别 | 屏幕密度 | 物理尺寸 | 像素大小 |
-| - | | | |
+| ---- | ---- | ---- | ---- |
 | lpdi | 120 dpi | 0.5 x 0.5 in | 0.5 in * 120 dpi = 60x60 px |
 | mdpi | 160 dpi | 0.5 x 0.5 in | 0.5 in * 160 dpi = 80x80 px  |
 | hdpi | 240 dpi | 0.5 x 0.5 in | 0.5 in * 240 dpi = 120x120 px |
@@ -31,7 +31,7 @@ Android 中px、dp、dip 和 sp 有什么区别?
 | xxxhdpi | 640 dpi | 0.5 x 0.5 in | 0.5 in * 640 dpi = 320x320 px |
 
 | 单位 | 描述 | 每英寸中含多少 | 密度无关 | 在每个屏幕上是否是同样大小  |
-| - | | | |
+| ---- | ---- | ---- | ---- |
 | px | 像素 | 很多 | 否 | 否 |
 | in | 英寸 | 1 | 是 | 是 |
 | mm | 毫米 | 25.4 | 是 | 是 |
