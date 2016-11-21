@@ -6,8 +6,8 @@ stackoverflow 上 Android 高票问题翻译整理，下面中文标题的问题
 
 1. [Android 中 px 、dp、dip 和 sp 有什么 区别？](doc/what-is-the-difference-between-px-dp-dip-and-sp-on-android.md)
 2. [Android 模拟器为什么那么慢，应如何加速？](doc/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator.md)
-3. [Proper use cases for Android UserManager.isUserAGoat()?](doc/proper-use-cases-for-android-usermanager-isuseragoat.md)
-4. [Close/hide the Android Soft Keyboard](doc/close-hide-the-android-soft-keyboard.md)
+3. [如何使用 UserManager.isUserAGoat()?](doc/proper-use-cases-for-android-usermanager-isuseragoat.md)
+4. [如何关闭或隐藏 Android 中的软键盘？](doc/close-hide-the-android-soft-keyboard.md)
 5. [Stop EditText from gaining focus at Activity startup](doc/stop-edittext-from-gaining-focus-at-activity-startup.md)
 6. [Saving Android Activity state](doc/saving-android-activity-state.md)
 7. [Is there a unique Android device ID?](doc/is-there-a-unique-android-device-id.md)
