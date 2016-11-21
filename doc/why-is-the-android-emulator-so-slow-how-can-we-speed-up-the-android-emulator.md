@@ -1,6 +1,6 @@
 ## Android 模拟器为什么那么慢，应如何加速
 
-> 译者 译自 [stackoverflow](http://stackoverflow.com/questions/1554099/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator)
+> imhet 译自 [stackoverflow](http://stackoverflow.com/questions/1554099/why-is-the-android-emulator-so-slow-how-can-we-speed-up-the-android-emulator)
 
 ### 问题描述
 
@@ -8,7 +8,7 @@
 
 ### 高票答案
 
-[ADT 9.0.0](https://developer.android.com/studio/tools/sdk/eclipse-adt.html)及之后的版本可以让你保存 AVD（模拟器）的状态，然后你可以很快的启动你的模拟器。创建 AVD 时可你可以开启该特性，或者创建之后再配置模拟器。
+[ADT 9.0.0](https://developer.android.com/studio/tools/sdk/eclipse-adt.html)及之后的版本可以让你保存 AVD（模拟器）的状态，你可以很快的启动你的模拟器。创建 AVD 时可你可以开启该特性，也可以创建之后再配置模拟器。
 
 当然把模拟器的内存设得更高些也会加快模拟器的启动速度，比如我设置了 1024 。
 
