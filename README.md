@@ -10,7 +10,7 @@ stackoverflow 上 Android 高票问题翻译整理，下面中文标题的问题
 4. [如何关闭或隐藏 Android 中的软键盘？](doc/close-hide-the-android-soft-keyboard.md)
 5. [如何让 EditText 在 Activity 启动时不获得焦点](doc/stop-edittext-from-gaining-focus-at-activity-startup.md)
 6. [如何保存 Activity 的状态？](doc/saving-android-activity-state.md)
-7. [Is there a unique Android device ID?](doc/is-there-a-unique-android-device-id.md)
+7. [如何唯一确定一台 Android 设备?](doc/is-there-a-unique-android-device-id.md)
 8. [“Debug certificate expired” error in Eclipse Android plugins](doc/debug-certificate-expired-error-in-eclipse-android-plugins.md)
 9. [Lazy load of images in ListView](doc/lazy-load-of-images-in-listview.md)
 10. [Is there a way to run Python on Android?](doc/is-there-a-way-to-run-python-on-android.md)
