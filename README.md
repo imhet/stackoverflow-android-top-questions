@@ -14,7 +14,7 @@ stackoverflow 上 Android 高票问题翻译整理，下面中文标题的问题
 8. [Eclipse 中开发 Android 时遇到 “Debug 签名过期”](doc/debug-certificate-expired-error-in-eclipse-android-plugins.md)
 9. [ListView 中如何实现图片的懒加载](doc/lazy-load-of-images-in-listview.md)
 10. [如何用 Python 写 Android 代码?](doc/is-there-a-way-to-run-python-on-android.md)
-11. [Get screen dimensions in pixels](doc/get-screen-dimensions-in-pixels.md)
+11. [如何获取屏幕尺寸？](doc/get-screen-dimensions-in-pixels.md)
 12. [How to fix android.os.NetworkOnMainThreadException?](doc/how-to-fix-android-os-networkonmainthreadexception.md)
 13. [How do I center text horizontally and vertically in a TextView on Android?](doc/how-do-i-center-text-horizontally-and-vertically-in-a-textview-on-android.md)
 14. [What is 'Context' on Android?](doc/what-is-context-on-android.md)
