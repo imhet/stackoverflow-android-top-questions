@@ -37,7 +37,7 @@ stackoverflow 上超过百赞的 Android 问题 1200+ ，急需大侠您的加�
   - 翻译时尽量保持原意，可进行一定的加工
 - 翻译完后：
   - 会定期给问题打上标签或分类，方便阅读
-  - 会定期输出到[简书](http://www.jianshu.com/users/d1046c203802)等平台上
+  - 会定期输出到[简书](http://www.jianshu.com/notebooks/7727604/latest)等平台上
   - 输出 gitbook
 
 ## 其它问题
